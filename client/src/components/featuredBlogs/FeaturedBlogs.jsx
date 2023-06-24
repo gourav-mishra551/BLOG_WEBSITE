@@ -9,7 +9,7 @@ const FeaturedBlogs = () => {
   return (
     <div className={classes.container}>
       <div className={classes.wrapper}>
-        <h3>Featured Blogs</h3>
+        <h3>Featured Blogss</h3>
         <div className={classes.blogs}>
           <div className={classes.left}>
             <div className={classes.mainBlog}>
