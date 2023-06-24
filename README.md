@@ -2,7 +2,7 @@
 A Simple MERN stack Blog website
 
 # DEPLOY
-https://gouravblogweb.netlify.app/login
+https://gouravblogweb.netlify.app/
 
 # A MERN WEB 
 A site where you can regsiter , login , Add blog , update blog , delete blog , and create Blog.
