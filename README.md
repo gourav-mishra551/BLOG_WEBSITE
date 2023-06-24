@@ -1,3 +1,5 @@
+# This Website is now only for Desktop User In future further design will be change.
+# Not Responsive 
 # BLOG_WEBSITE
 A Simple MERN stack Blog website
 
